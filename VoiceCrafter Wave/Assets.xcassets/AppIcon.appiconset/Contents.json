@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "an-animated-logo-for-voicecrafter-wave-w_C4v8gHH3S7GEP38TadqixQ_vIR9WbqPRy6Hll3TqyZc4A.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
